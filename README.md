@@ -1,4 +1,4 @@
-# Bella-Chic -> Clothing Website
+# Belle-Chic -> Clothing Website
 
 This is an E-commerce Responsive Website using HTML, CSS and Javascript.
 
